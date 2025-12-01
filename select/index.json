@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "恋しさと せつなさと 心強さと 2023",
+  "base_artist": "篠原涼子、t.komuro",
+  "createdAt": "2025-12-01T20:26:21.227012Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋しさと せつなさと 心強さと",
+      "artist": "篠原涼子 with t.komuro",
+      "has_synced": false,
+      "path": "select/01_恋しさと_せつなさと_心強さと_篠原涼子_with_t.komuro.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋しさと せつなさと 心強さと",
+      "artist": "篠原涼子 with t. komuro",
+      "has_synced": false,
+      "path": "select/02_恋しさと_せつなさと_心強さと_篠原涼子_with_t._komuro.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋しさと せつなさと 心強さと/EUROGROOVES REMIX",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/03_恋しさと_せつなさと_心強さと_EUROGROOVES_REMIX_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋しさと せつなさと 心強さと (Eurogrooves remix)",
+      "artist": "m.o.v.e",
+      "has_synced": true,
+      "path": "select/04_恋しさと_せつなさと_心強さと_(Eurogrooves_remix)_m.o.v.e.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "恋しさと せつなさと 心強さと (Eurogrooves remix)",
+      "artist": "move",
+      "has_synced": true,
+      "path": "select/05_恋しさと_せつなさと_心強さと_(Eurogrooves_remix)_move.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "恋しさと せつなさと 心強さと",
+      "artist": "AAA (Attack All Around)",
+      "has_synced": false,
+      "path": "select/06_恋しさと_せつなさと_心強さと_AAA_(Attack_All_Around).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "恋しさと せつなさと 心強さと",
+      "artist": "Ryoko Shinohara, Tetsuya Komuro",
+      "has_synced": true,
+      "path": "select/07_恋しさと_せつなさと_心強さと_Ryoko_Shinohara,_Tetsuya_Komuro.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "恋しさと せつなさと 心強さと",
+      "artist": "Ryoko Shinohara, Tetsuya Komuro",
+      "has_synced": false,
+      "path": "select/08_恋しさと_せつなさと_心強さと_Ryoko_Shinohara,_Tetsuya_Komuro.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "恋しさと せつなさと 心強さと 2023 - Instrumental",
+      "artist": "篠原涼子",
+      "has_synced": true,
+      "path": "select/09_恋しさと_せつなさと_心強さと_2023_-_Instrumental_篠原涼子.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "恋しさと せつなさと 心強さと",
+      "artist": "篠原涼子",
+      "has_synced": true,
+      "path": "select/10_恋しさと_せつなさと_心強さと_篠原涼子.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "恋しさと せつなさと 心強さと",
+      "artist": "篠原涼子",
+      "has_synced": true,
+      "path": "select/11_恋しさと_せつなさと_心強さと_篠原涼子.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "恋しさと せつなさと 心強さと(Extended Mix)(with t.komuro)",
+      "artist": "篠原涼子 with t.komuro",
+      "has_synced": false,
+      "path": "select/12_恋しさと_せつなさと_心強さと(Extended_Mix)(with_t.komuro)_篠原涼子_with_t.komuro.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "恋しさと せつなさと 心強さと(with t.komuro)",
+      "artist": "篠原涼子 with t.komuro",
+      "has_synced": false,
+      "path": "select/13_恋しさと_せつなさと_心強さと(with_t.komuro)_篠原涼子_with_t.komuro.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "恋しさと せつなさと 心強さと 2023",
+      "artist": "篠原涼子 with t.komuro",
+      "has_synced": false,
+      "path": "select/14_恋しさと_せつなさと_心強さと_2023_篠原涼子_with_t.komuro.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "恋しさと せつなさと 心強さと",
+      "artist": "Machico",
+      "has_synced": false,
+      "path": "select/15_恋しさと_せつなさと_心強さと_Machico.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "恋しさと せつなさと 心強さと",
+      "artist": "篠原涼子/小室哲也",
+      "has_synced": true,
+      "path": "select/16_恋しさと_せつなさと_心強さと_篠原涼子_小室哲也.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋しさと せつなさと 心強さと",
+      "artist": "篠原 涼子",
+      "has_synced": false,
+      "path": "select/pl_01_恋しさと_せつなさと_心強さと_篠原_涼子.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "恋しさと せつなさと 心強さと",
+      "artist": "篠原 涼子",
+      "has_synced": false,
+      "path": "select/pl_02_恋しさと_せつなさと_心強さと_篠原_涼子.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "恋しさと せつなさと 心強さと",
+      "artist": "篠原 涼子",
+      "has_synced": false,
+      "path": "select/pl_03_恋しさと_せつなさと_心強さと_篠原_涼子.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "恋しさと せつなさと 心強さと",
+      "artist": "篠原 涼子",
+      "has_synced": false,
+      "path": "select/pl_04_恋しさと_せつなさと_心強さと_篠原_涼子.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "恋しさと せつなさと 心強さと",
+      "artist": "篠原 涼子",
+      "has_synced": false,
+      "path": "select/pl_05_恋しさと_せつなさと_心強さと_篠原_涼子.txt"
+    }
+  ]
+}
